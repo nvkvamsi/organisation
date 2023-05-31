@@ -11,7 +11,7 @@
         "php": "^7.2",
         "fideloper/proxy": "^4.0",
         "laravel/framework": "^6.2",
-        "laravel/passport": "^8.0",
+        "laravel/passport": "*",
         "laravel/tinker": "^2.0",
         "spatie/laravel-fractal": "^5.6"
     },
